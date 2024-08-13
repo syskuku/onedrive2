@@ -42,7 +42,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/#1VOCALOID编辑器下载/VOCALOID6编辑器/VOCALOID 6.4.2编辑器', '/#1VOCALOID编辑器下载/VOCALOID6编辑器/VOCALOID 6.3.0编辑器', '/#1VOCALOID编辑器下载/VOCALOID6编辑器/VOCALOID 6.4.0编辑器'],
+  protectedRoutes: ['/#1VOCALOID编辑器下载/VOCALOID6编辑器/VOCALOID 6.4.2编辑器（最新版本）', '/#1VOCALOID编辑器下载/VOCALOID6编辑器/VOCALOID 6.3.0编辑器', '/#1VOCALOID编辑器下载/VOCALOID6编辑器/VOCALOID 6.4.0编辑器'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:zhangjiajun831@gmail.com',
